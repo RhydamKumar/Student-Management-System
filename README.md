@@ -32,7 +32,7 @@ This is a simple Command Line Interface (CLI) based Student Management System pr
 ## How to Run
 
 1. Clone the repository:
-   git clone https://github.com/RydamKumar/Student-Management-System.git
+   git clone https://github.com/RhydamKumar/Student-Management-System.git
 
 2. Navigate to the project directory:
    cd Student-Management-System
